@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://showlemon.github.io/
+url: http://39.107.245.110:81/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,7 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/showlemon/showlemon.github.io.git
+  repository: https://github.com/showlemon/archmoelemon.com.git
   branch: master
 search:
   path: search.xml
